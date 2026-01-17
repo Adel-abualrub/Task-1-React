@@ -1,0 +1,38 @@
+.heroSection {
+  background-color: #1abc9c;
+  padding: 120px 0;
+  color: white;
+}
+
+.heroImg {
+  width: 250px;
+  margin-bottom: 30px;
+}
+
+.heroTitle {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.line {
+  width: 80px;
+  height: 4px;
+  background-color: white;
+}
+
+.star {
+  margin: 0 15px;
+  font-size: 20px;
+}
+
+.heroText {
+  font-size: 18px;
+}
