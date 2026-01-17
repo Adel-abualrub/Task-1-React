@@ -19,7 +19,7 @@ export default function Footer() {
             <div className={`col-md-4`}>
               <h4 className={`${style.title}`}>AROUND THE WEB</h4>
               <p className={`${style.text}`}>
-                {/* بدون أيقونات مثل ما طلبت */}
+               
               </p>
             </div>
 
